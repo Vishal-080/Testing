@@ -22,3 +22,4 @@ function timer(time) {
 }
 
 module.exports = timer;
+
